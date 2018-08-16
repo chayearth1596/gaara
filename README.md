@@ -1,2 +1,1 @@
-# Self3
-SELFBOT LINE ™❍ざูຮℓמՁஞণ  PY3 login
+# ✨Ձัधနุ่थ సန้ণ७Ҩथี้✨
