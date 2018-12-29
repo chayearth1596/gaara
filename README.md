@@ -17,8 +17,8 @@ pip3 install gtts <br>
 pip3 install googletrans <br>
 git clone https://github.com/zbkngar/z <br>
 =================================== <br>
-# ขอลิ้งล็อกอิน <br>
+# ขอลิ้งล็อกอิน
 cd z && python3 gaara.py <br>
 =================================== <br>
 
-# By.เอ้สายเทส สังกัด คนวัยมันส์คลับ <br>
+# By.เอ้สายเทส สังกัด คนวัยมันส์คลับ
