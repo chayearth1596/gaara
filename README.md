@@ -1,7 +1,7 @@
 # ✨Ձัधနุ่थ సန้ণ७Ҩथี้✨
 
 # วิธีติดตั้ง <br>
-# แอพ Termux <br>
+แอพ Termux <br>
 =================================== <br>
 apt update && apt upgrade -y <br>
 apt install python -y <br>
@@ -18,7 +18,7 @@ pip3 install gtts <br>
 pip3 install googletrans <br>
 git clone https://github.com/zbkngar/z <br>
 =================================== <br>
-# ขอลิ้งล็อกอิน <br>
+ขอลิ้งล็อกอิน <br>
 cd z && python3 gaara.py <br>
 =================================== <br>
 
