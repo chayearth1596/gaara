@@ -1,7 +1,7 @@
 # ✨Ձัधနุ่थ సန้ণ७Ҩथี้✨
 
-วิธีติดตั้งบนแอพ Termux
-===================================
+# วิธีติดตั้งบนแอพ Termux
+# ===================================
 apt update && apt upgrade -y
 apt install python -y
 apt install git -y
