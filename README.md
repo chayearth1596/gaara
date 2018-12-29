@@ -1,7 +1,6 @@
 # ✨Ձัधနุ่थ సန้ণ७Ҩथี้✨
 
-# วิธีติดตั้ง <br>
-แอพ Termux <br>
+# วิธีติดตั้งบน Termux <br>
 =================================== <br>
 apt update && apt upgrade -y <br>
 apt install python -y <br>
@@ -21,6 +20,5 @@ git clone https://github.com/zbkngar/z <br>
 ขอลิ้งล็อกอิน <br>
 cd z && python3 gaara.py <br>
 =================================== <br>
-
-# By.เอ้สายเทส
-# สังกัด คนวัยมันส์คลับ
+# By.เอ้สายเทส <br>
+# สังกัด คนวัยมันส์คลับ <br>
