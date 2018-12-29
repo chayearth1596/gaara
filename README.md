@@ -2,7 +2,7 @@
 
 วิธีติดตั้งบนแอพ Termux
 ===================================
-apt update && apt upgrade -y
+apt update && apt upgrade -y >
 apt install python -y
 apt install git -y
 apt install nano -y
