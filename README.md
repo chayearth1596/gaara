@@ -1,5 +1,5 @@
-# By.เอ้สายเทส <br>
-# วิธีติดตั้งบน Termux <br>
+# By.เอ้สายเทส
+# วิธีติดตั้งบน Termux
 =================================== <br>
 apt update && apt upgrade -y <br>
 apt install python -y <br>
@@ -19,4 +19,4 @@ git clone https://github.com/zbkngar/z <br>
 ขอลิ้งล็อกอิน <br>
 cd z && python3 gaara.py <br>
 =================================== <br>
-# สังกัด คนวัยมันส์คลับ <br>
+# สังกัด คนวัยมันส์คลับ
