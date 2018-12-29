@@ -1,5 +1,5 @@
 # By.เอ้สายเทส
-# วิธีติดตั้งบน Termux
+# วิธีติดตั้งบน Termux <br>
 =================================== <br>
 apt update && apt upgrade -y <br>
 apt install python -y <br>
