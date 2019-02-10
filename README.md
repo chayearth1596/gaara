@@ -14,7 +14,7 @@ pip3 install pytz <br>
 pip3 install antolib <br>
 pip3 install gtts <br>
 pip3 install googletrans <br>
-git clone https://github.com/zbkngar/z <br>
+git clone https://github.com/zbkngar/gaara <br>
 =================================== <br>
 ขอลิ้งล็อกอิน <br>
 cd gaara && python3 gaara.py <br>
